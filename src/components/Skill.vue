@@ -8,6 +8,9 @@
       </div>
       <img src="./imgs/group.png" alt="">
     </div>
+    <div class="reght-box col-lg-6">
+
+    </div>
   </div>
 </div>
 </template>

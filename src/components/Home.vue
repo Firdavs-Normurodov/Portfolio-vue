@@ -42,7 +42,8 @@ export default {
 
 <style scoped>
 .home {
-  height: 80vh;
+  /* height: 80vh; */
+  padding-top: 5rem;
   display: flex;
 }
 
