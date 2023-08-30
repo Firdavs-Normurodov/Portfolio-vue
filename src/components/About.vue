@@ -15,7 +15,7 @@
 
         Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. I always strive to learn about the newest technologies and frameworks.
       </p>
-      <RouterLink class="contact-link " :to="{name:'about'}">Contact Me !!</RouterLink>
+      <RouterLink class="contact-link " :to="{name:'contact'}">Contact Me !!</RouterLink>
     </div>
     <div class="col-lg-6 box-right">
       <img src="./imgs/developer2.png" alt="">

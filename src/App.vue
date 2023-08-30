@@ -24,7 +24,7 @@ export default {
 <style scoped>
   .body{
     background-color: black;
-    font-family: 'Roboto Slab', serif;
+    font-family:sans-serif;
     overflow: hidden;
     display: flex;
     transition: all 0.5 ease;

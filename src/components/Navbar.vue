@@ -10,6 +10,8 @@
     <RouterLink class="me-3 py-2 routerLink text-decoration-none" :to="{name:'home'}"><span class="menu-text">#</span>Home</RouterLink>
     <RouterLink class="me-3 py-2 routerLink text-decoration-none" :to="{name:'about'}"><span class="menu-text">#</span>About</RouterLink>
     <RouterLink class="me-3 py-2 routerLink text-decoration-none" :to="{name:'skill'}"><span class="menu-text">#</span>Skills</RouterLink>
+    <RouterLink class="me-3 py-2 routerLink text-decoration-none" :to="{name:'works'}"><span class="menu-text">#</span>Works</RouterLink>
+    <RouterLink class="me-3 py-2 routerLink text-decoration-none" :to="{name:'contact'}"><span class="menu-text">#</span>Contact</RouterLink>
   </nav>
 </div>
 </template>

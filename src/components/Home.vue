@@ -1,5 +1,5 @@
 <template>
-<div class="container home">
+<div class="home">
   <div class="row">
     <div class="col-lg-7 col-md-12 card-left">
       <div class="line-icons ">
@@ -20,7 +20,7 @@
           Fullstack developer
         </span></h1>
       <p>He crafts responsive websites where technologies <br> meet creativity</p>
-      <RouterLink class="contact-link " :to="{name:'about'}">Contact Me !!</RouterLink>
+      <RouterLink class="contact-link " :to="{name:'contact'}">Contact Me !!</RouterLink>
 
     </div>
     <div class="col-lg-5 col-md-12 card-right ">
