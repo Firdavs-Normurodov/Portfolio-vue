@@ -27,7 +27,7 @@
           <span>Figma</span>
           <span>Git</span>
           <span>Xampp</span>
-          <span>Postman</span>
+          <span>Postman</span> <br>
           <span>Docker</span>
           <span>Font Awesome</span>
         </p>
@@ -46,7 +46,7 @@
           <span>HTML5</span>
           <span>CSS3</span>
           <span>SASS</span>
-          <span>SCSS</span>
+          <span>SCSS</span> <br>
           <span>BOOTSTRAP</span>
           <span></span>
         </p>
