@@ -2,7 +2,7 @@
 <div class="home">
   <div class="row">
     <div class="col-lg-7 col-md-12 card-left">
-      <div class="line-icons ">
+      <div class="line-icons  d-md-block d-sm-none">
         <a>
           <img src="./imgs/Line.png" alt="">
         </a>
