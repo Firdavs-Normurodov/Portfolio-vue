@@ -48,7 +48,6 @@
           <span>SASS</span>
           <span>SCSS</span> <br>
           <span>BOOTSTRAP</span>
-          <span></span>
         </p>
       </div>
     </div>

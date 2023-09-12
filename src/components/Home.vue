@@ -103,7 +103,6 @@ export default {
 }
 
 .card-right {
-  outline: 2px solid red;
   display: flex;
   justify-content: right;
   align-items: center;
